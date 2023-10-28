@@ -1,0 +1,7 @@
+.navbar{
+    background-image: linear-gradient(to right, red , orange);
+}
+
+#navbarText{
+    width: max-content;
+}
